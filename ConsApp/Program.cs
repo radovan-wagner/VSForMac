@@ -6,7 +6,7 @@ namespace ConsApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Ty vole !");
+            Console.WriteLine("Hello World Ty vole !\n He-HE...");
         }
     }
 }
